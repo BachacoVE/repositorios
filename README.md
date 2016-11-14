@@ -10,3 +10,15 @@ http://www.github.com/BachacoVE
 http://www.github.com/vijoin
 http://www.gitlab.com/vijoin
 http://www.gist.github.com/vijoin
+
+*** 
+### ACJPV
+[Juventud Productiva Venezolana](https://github.com/acjpv/ "Repositorio de Juventud Productiva Venezolana")
+
+*** 
+### JPB
+[Juventud Productiva Bicentenario](https://github.com/juventudproductivabicentenaria "Repositorio de Juventud Productiva Bicentenaria")
+
+*** 
+### Felipe Villamizar
+[Felipe UNEFA](https://github.com/felipeunefa "Repositorio de Felipe Villamizar")
