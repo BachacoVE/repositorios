@@ -30,5 +30,5 @@ En este listado podrás encontrar todas las cuentas referentes a repositorios gi
 * [Github Felipe UNEFA](https://github.com/felipeunefa "Repositorio de Felipe Villamizar")
 
 *** 
-### Jorge Mustaine
-* [Blog Jorge Mustaine](https://attakatara.wordpress.com/ "Blog de Jorge Mustaine")
+### Jorge Escalona
+* [Blog Jorge Escalona](https://attakatara.wordpress.com/ "Blog de Jorge Mustaine")
